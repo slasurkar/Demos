@@ -37,7 +37,7 @@ namespace Omaha_App.Web
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication();
+			app.UseGoogleAuthentication();
         }
     }
 }
